@@ -1,2 +1,2 @@
 # comparedb
-Windows line command mysql code comparasion
+Windows line command mysql code comparison
